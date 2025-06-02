@@ -1959,7 +1959,7 @@ slangdict = {
     "icgup": "I can give you pleasure",
     "icic": "I See. I See",
     "icp": "insane clown posse",
-    "icr": "I can't rememer",
+    "icr": "I can't remember",
     "icsrg": "I can still reach Google",
     "ictrn": "I can't talk right now",
     "icty": "i can't tell you ",
